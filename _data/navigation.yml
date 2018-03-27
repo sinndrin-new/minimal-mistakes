@@ -8,7 +8,5 @@ main:
     url: /ueber-uns/
   - title: "Hintergrundwissen"
     url: /hintergrundwissen/
-  - title: "Blog"
-    url: /blog/
   - title: "Kontakt"
-    url: /kontakt/
+    url: /ueber-uns/kontakt/

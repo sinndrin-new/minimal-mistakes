@@ -440,6 +440,7 @@ de: &DEFAULT_DE
   loading_label              : "Lade..."
   search_placeholder_text    : "Suchbegriff eingeben..."
   results_found              : "Ergebnis(se) gefunden"
+  back_to_top                : "zum Seitenanfang"
 de-DE:
   <<: *DEFAULT_DE
 de-AT:

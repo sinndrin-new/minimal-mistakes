@@ -1,0 +1,16 @@
+.masthead {
+  background: $secondary-color;
+  border-bottom: 0;
+
+  &__inner-wrap {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+  & a.site-title {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  & nav#site-nav.greedy-nav, .search__toggle {
+    background: $secondary-color;
+  }
+}
