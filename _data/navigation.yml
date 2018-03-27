@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Angebote"
+    url: /angebote/
+  - title: "Webshop"
+    url: https://www.sinndrin-shop.ch/
+  - title: "Über uns"
+    url: /ueber-uns/
+  - title: "Hintergrundwissen"
+    url: /hintergrundwissen/
+  - title: "Blog"
+    url: /blog/
+  - title: "Kontakt"
+    url: /kontakt/

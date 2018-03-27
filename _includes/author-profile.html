@@ -48,6 +48,12 @@
         </li>
       {% endif %}
 
+     {% if author.phone %}
+       <li>
+         <i class="fa fa-fw fa-phone" aria-hidden="true"></i> {{ author.phone }}
+       </li>
+    {% endif %}
+
       {% if author.uri %}
         <li>
           <a href="{{ author.uri }}" itemprop="url">
