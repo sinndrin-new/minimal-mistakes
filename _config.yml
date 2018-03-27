@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "de"
-title                    : "Site Title"
+title                    : "sinndrin genossenschaft"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "sinndrin genossenschaft"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -90,29 +90,29 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : custom # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "sinndrin genossenschaft"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  location         : "Zürich"
+  email            : "info@sinndrin.ch"
+  uri              : "https://www.sinndrin.ch"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "sinndrin"
   foursquare       :
-  github           :
+  github           : "sinndrin"
   gitlab           :
-  google_plus      :
+  google_plus      : "+sinndringenossenschaftZürich"
   keybase          :
   instagram        :
   lastfm           :
@@ -122,10 +122,10 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "sinndrin"
   vine             :
   weibo            :
-  xing             :
+  xing             : "sinndringenossenschaft"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
