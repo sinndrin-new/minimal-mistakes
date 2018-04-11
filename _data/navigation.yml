@@ -6,7 +6,5 @@ main:
     url: https://www.sinndrin-shop.ch/
   - title: "Über uns"
     url: /ueber-uns/
-  - title: "Hintergrundwissen"
-    url: /hintergrundwissen/
   - title: "Kontakt"
     url: /ueber-uns/kontakt/

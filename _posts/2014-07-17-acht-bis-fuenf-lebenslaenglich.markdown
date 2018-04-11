@@ -7,6 +7,12 @@ header:
 date: 2014-07-17 10:32:21
 published: true
 category: Gedanken
+tags:
+ - Arbeit
+ - Freizeit
+ - Gleichgewicht
+ - Suffizienz
+ - Büro
 comments: true
 author: Raphael Hagmann
 ---

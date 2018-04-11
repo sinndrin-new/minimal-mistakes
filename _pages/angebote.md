@@ -6,7 +6,7 @@ permalink: /angebote/
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.7"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/angebote/andreas-gucklhorn-285602-unsplash.jpg
   caption: "Foto: [**Andreas Gücklhorn**](https://unsplash.com/@draufsicht)"
   cta_label: "Kontaktieren Sie uns für ein unverbindliches Gespräch. Wir freuen uns."
