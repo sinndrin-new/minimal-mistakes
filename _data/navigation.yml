@@ -17,6 +17,8 @@ ueber-uns:
       # TODO: add spacing as css and remove html breaks and nbsp
       - title: "<i class='fas fa-fw fa-users'></i> Team<br>&nbsp;"
         url: /ueber-uns/team/
+      - title: "<i class='fas fa-fw fa-comment'></i> Blog<br>&nbsp;"
+        url: /blog/
       - title: "<i class='fas fa-fw fa-plus'></i> Mitglied werden<br>&nbsp;"
         url: /ueber-uns/mitglied-werden/
       - title: "<i class='fas fa-fw fa-phone'></i> Kontakt<br>&nbsp;"
