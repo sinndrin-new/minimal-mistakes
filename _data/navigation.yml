@@ -19,19 +19,19 @@ ueber-uns:
         url: /ueber-uns/team/
       - title: "<i class='fas fa-fw fa-comment'></i> Blog<br>&nbsp;"
         url: /blog/
-      - title: "<i class='fas fa-fw fa-plus'></i> Mitglied werden<br>&nbsp;"
-        url: /ueber-uns/mitglied-werden/
-      - title: "<i class='fas fa-fw fa-phone'></i> Kontakt<br>&nbsp;"
-        url: /ueber-uns/kontakt/
+      - title: "<i class='fas fa-fw fa-heart'></i> Grundsätze<br>&nbsp;"
+        url: /ueber-uns/grundsaetze/
       - title: "<i class='fas fa-fw fa-star'></i> Re­a­li­sier­te Projekte<br>&nbsp;"
         url: "#"
-      - title: "<i class='fas fa-fw fa-link'></i> Jobs<br>&nbsp;"
-        url: /ueber-uns/jobs/
-      - title: "<i class='fas fa-fw fa-puzzle-piece '></i> Offener Spieleabend<br>&nbsp;"
-        url: /ueber-uns/spieleabend/
       - title: "<i class='fas fa-fw fa-check'></i> Gemeinwohlbilanz<br>&nbsp;"
         url: /ueber-uns/gemeinwohlbilanz-2014/
       - title: "<i class='fas fa-fw fa-copy'></i> Statuten<br>&nbsp;"
         url: /ueber-uns/statuten/
-      - title: "<i class='fas fa-fw fa-heart'></i> Grundsätze<br>&nbsp;"
-        url: /ueber-uns/grundsaetze/
+      - title: "<i class='fas fa-fw fa-plus'></i> Mitglied werden<br>&nbsp;"
+        url: /ueber-uns/mitglied-werden/
+      - title: "<i class='fas fa-fw fa-link'></i> Jobs<br>&nbsp;"
+        url: /ueber-uns/jobs/
+      - title: "<i class='fas fa-fw fa-puzzle-piece '></i> Offener Spieleabend<br>&nbsp;"
+        url: /ueber-uns/spieleabend/
+      - title: "<i class='fas fa-fw fa-phone'></i> Kontakt<br>&nbsp;"
+        url: /ueber-uns/kontakt/
