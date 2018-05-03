@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "sinndrin genossenschaft"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Bio von site author"
+  bio              : "Die sinndrin genossenschaft ist ein auf Nachhaltigkeit ausgerichtetes <a href='/ueber-uns/team/'>Team</a> von Ingenieuren. Unsere Vision ist es sinnstiftende Projekte umzusetzen, die der Gesellschaft von Nutzen sind."
   location         : "Zürich"
   phone            : "+41 44 534 64 54"
   email            : "info@sinndrin.ch"
