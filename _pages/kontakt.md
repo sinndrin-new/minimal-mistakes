@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Kontakt"
 excerpt: "Kontaktieren Sie uns. Wir freuen uns."
 permalink: /ueber-uns/kontakt/
@@ -10,6 +10,22 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/ueber-uns/kontakt/2016-07-Fairphone_Inge_696-copy_WEB.jpg
   caption: "Foto: [**Fairphone**](https://www.fairphone.com)"
+# feature rows
+intro:
+  - excerpt: 'Wir sind die sinndrin genossenschaft.'
+fr_kontakt:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
 <!-- BEGIN script loading -->
@@ -25,12 +41,47 @@ header:
 <!-- END facebook -->
 <!-- END script loading -->
 
+{% include feature_row id="intro" type="center" %}
+
+
+<div class="float-group">
+{% for author_hash in site.data.authors %}
+{% assign author = author_hash[1] %}
+{% if author.avatar %}
+  <div class="float-left round-img mw-110">
+    {% if author.avatar contains "://" %}
+      {% assign author_src = author.avatar %}
+    {% else %}
+      {% assign author_src = author.avatar | relative_url %}
+    {% endif %}
+
+    {% if author.home %}
+      {% if author.home contains "://" %}
+        {% assign author_link = author.home %}
+      {% else %}
+        {% assign author_link = author.home | relative_url %}
+      {% endif %}
+      <a href="{{ author_link }}">
+        <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+      </a>
+    {% else %}
+      <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+    {% endif %}
+  </div>
+{% endif %}
+{% endfor %}
+</div>
+
+<hr>
+
+<!-- {% include feature_row id="fr_kontakt" %} -->
+
+
 <!-- BEGIN Kontakt -->
 <div class="row">
   <div class=" large-6 columns">
   <p>
   <b>sinndrin genossenschaft</b><br>
-  c/o Z11 Büro Atelier<br>
   <a href="#" data-reveal-id="addressModal">Zunstrasse 11<br>
   CH-8152 Glattbrugg<br></a>
   <i class="fi-telephone"></i> 044 534 64 54<br>
@@ -38,7 +89,7 @@ header:
   <a href="/ueber-uns/spieleabend/"><i class="fi-puzzle"></i> Persönliches Kennenlernen an einem unserer Spieleabende</a><br><br>
   <b>Fairphone Support:</b><br><a href="https://support.sinndrin.org/de"><i class="fi-page-multiple"></i> Fairphone Support Seite</a><br><a href="mailto:support@sinndrin.ch"><i class="fi-mail"></i> support@sinndrin.ch</a><br><br>
   MWST-Nr.: CHE-259.799.074 MWST<br>
-  <a href="http://zh.powernet.ch/webservices/inet/HRG/HRG.asmx/getHRGHTML?chnr=0205000489&amp;amt=020&amp;toBeModified=0&amp;validOnly=0&amp;lang=1&amp;sort=0"><i class="fi-info"></i> Handelsregistereintrag</a><br>
+  <a target="_blank" href="https://zh.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-259.799.074"><i class="fi-info"></i> Handelsregistereintrag</a><br>
   <a href="#bankverbindung"><i class="fi-bitcoin-circle"></i> Bankverbindung</a><br><br>
 
   Wir sind am Montag, Mittwoch und Freitag während den üblichen Büroöffnungszeiten am besten erreichbar.

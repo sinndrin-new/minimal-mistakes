@@ -1,3 +1,5 @@
+/* DESIGN */
+/* masthead */
 .masthead {
   background: $secondary-color;
   border-bottom: 0;
@@ -13,4 +15,36 @@
   & nav#site-nav.greedy-nav, .search__toggle {
     background: $secondary-color;
   }
+}
+
+/* STYLING ELEMENTE */
+/* runde bilder in einem übergeordneten element */
+.round-img {
+  img {
+    border-radius: 50%;
+  }
+}
+/* maximale breite von bildern */
+.mw-150 {
+  img {
+    max-width: 150px;
+  }
+}
+.mw-110 {
+  img {
+    max-width: 110px;
+  }
+}
+/* padding */
+.p-05em {
+  padding: 0.5em;
+}
+
+/* float */
+.float-left {
+  float: left;
+}
+/* clearfix */
+.float-group {
+  @include clearfix;
 }

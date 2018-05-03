@@ -9,7 +9,6 @@ sidebar:
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  # TODO: kein text overlay und nur das bild als teaser ausprobieren auf wunsch von georg
   overlay_image: /assets/images/ueber-uns/Hintergrund_JPG-1600.jpg
   # caption: "Foto: [**Andreas Gücklhorn**](https://unsplash.com/@draufsicht)"
   # cta_label: "Mit unseren Angeboten setzen wir solche Projekte um."
