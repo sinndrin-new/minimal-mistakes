@@ -3,7 +3,7 @@ layout: splash
 title: "Fairphone"
 <!-- TODO: Roger Einsicht -->
 excerpt: "Wenn Sie bei uns ein Gerät kaufen... <br><br>
-    ... provitieren Sie von persönlichem und kompetentem Support und einfachen Prozessen bei Garantiefällen. <br>
+    ... provitieren Sie von persönlichem und kompetentem Support sowie einfachen Prozessen bei Garantiefällen. <br>
     ... sind die Stromkosten für das Aufladen des Gerätes für 5 Jahre mit 100% Schweizer Solarstrom gesponsert. <br>
     ... ist der Versand CO2-Neutral. <br>
     ... wissen Sie wie die Kosten des Gerätes aufgeteilt sind, weil Transparenz uns wichtig ist."
