@@ -1,21 +1,9 @@
 ---
 layout: single
 title: "Über uns"
-# excerpt: "Die sinndrin genossenschaft ist ein auf Nachhaltigkeit ausgerichtetes [Team](/ueber-uns/team/) von Ingenieuren. <br><br>Unsere Vision ist es [sinnstiftende Projekte](/angebote/) umzusetzen, die der Gesellschaft von Nutzen sind."
+excerpt: ""
 permalink: /ueber-uns/
-author_profile: false
-sidebar:
-  nav: "ueber-uns"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.0"
-  overlay_image: /assets/images/ueber-uns/Hintergrund_JPG-1600.jpg
-  # caption: "Foto: [**Andreas Gücklhorn**](https://unsplash.com/@draufsicht)"
-  # cta_label: "Mit unseren Angeboten setzen wir solche Projekte um."
-  # cta_url: "/angebote/"
 ---
-
-# Über uns
 
 Die sinndrin genossenschaft ist ein auf Nachhaltigkeit ausgerichtetes [Team](/ueber-uns/team/) von Ingenieuren. <br><br>Unsere Vision ist es [sinnstiftende Projekte](/angebote/) umzusetzen, die der Gesellschaft von Nutzen sind.
 

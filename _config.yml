@@ -256,6 +256,12 @@ compress_html:
     envs: development
 
 
+# collections
+collections:
+  ueber-uns:
+    output: true
+
+
 # Defaults
 defaults:
   # _posts
@@ -269,3 +275,19 @@ defaults:
       comments: # true
       share: true
       related: true
+  # ueber-uns
+  - scope:
+      path: ""
+      type: "ueber-uns"
+    values:
+      sidebar:
+        nav: "ueber-uns"
+      author_profile: false
+      search: true
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.0"
+        overlay_image: /assets/images/ueber-uns/Hintergrund_JPG-1600.jpg
+        # caption: "Foto: [**Andreas Gücklhorn**](https://unsplash.com/@draufsicht)"
+        # cta_label: "Mit unseren Angeboten setzen wir solche Projekte um."
+        # cta_url: "/angebote/"

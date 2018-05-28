@@ -3,13 +3,6 @@ layout: single
 title: "Kontakt"
 excerpt: "Kontaktieren Sie uns. Wir freuen uns."
 permalink: /ueber-uns/kontakt/
-author_profile: false
-search: true
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/ueber-uns/kontakt/2016-07-Fairphone_Inge_696-copy_WEB.jpg
-  caption: "Foto: [**Fairphone**](https://www.fairphone.com)"
 # feature rows
 intro:
   - excerpt: 'Wir sind die sinndrin genossenschaft.'
