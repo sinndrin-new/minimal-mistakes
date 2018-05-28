@@ -21,7 +21,6 @@ fr_PlanungUndBau:
     alt: "Planung und Bau Ihrer Solaranlage"
     title: "Planung und Bau Ihrer Solaranlage"
     excerpt: "Für den Bau Ihrer Photovoltaikanlage bieten wir alles aus einer Hand: von der Beratung und Planung bis hin zur Realisierung und Gesuchstellung der Förderbeiträge. Wir erstellen Ihnen gerne kostenlos eine unverbindliche Offerte.
-
 Uns ist es wichtig auch beim Bau einer Solaranlage das wesentliche nicht aus den Augen zu lassen:
 
 - Negative Einflüsse auf die Natur möglichst zu reduzieren indem Komponenten verwendet werden, die einen kleinen ökologischen Fussabdruck dafür grosse lokale Wertschöpfung aufweisen. 
