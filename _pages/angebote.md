@@ -24,10 +24,10 @@ fr_Fairphone:
     btn_class: "btn--primary"
 fr_Solaranlagen:
   - image_path: /assets/images/angebote/andreas-gucklhorn-285602-unsplash.jpg
-    alt: "Solaranlagen"
-    title: "Solaranlagen"
+    alt: "Solar"
+    title: "Solar"
     excerpt: 'Die Zukunft wird erneuerbar sowie frei von fossilen und atomaren Energieträgern sein. Unser Know-How setzen wir daher im Bereich Solarenergie ein, einer der neuen erneuerbaren Energietechniken. Wir glauben, dass Solarenergie zur Zeit die beste dezentrale Energieproduktion ist.'
-    url: "/angebote/solarenergie"
+    url: "/angebote/solar/"
     btn_label: "Mehr"
     btn_class: "btn--primary"
 fr_WeitereAngeote:
