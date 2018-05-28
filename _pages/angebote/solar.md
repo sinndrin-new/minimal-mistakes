@@ -40,11 +40,16 @@ Der Weg zu Ihrer Photovoltaikanlage:
 4. Wir erstellen Ihnen eine unverbindliche Offerte.
 
 5. Sie erteilen uns den Bauauftrag, dabei werden Ihnen 50 Prozent der Anlagekosten in Akkontorechnung gestellt.
+
 6. Es erfolgt der Bau der Anlage. Für ein Einfamilienhaus liegt die Bauzeit typischerweise bei einer Woche.
+
 7. Wir erstellen alle Gesuche und beantragen für Sie die Förderbeiträge.
+
 8. Der Abschluss bildet die Übergabe der Anlage. Gerne werden wir auch zukünftig für Sie bereit stehen.
 
+
 Weitere Informationen:
+
 In unserem Glossar finden Sie viele Erklärungen und Informationen rund um Solarenergie."
 
     url: "/ueber-uns/kontakt/"
