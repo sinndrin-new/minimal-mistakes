@@ -29,8 +29,9 @@ Uns ist es wichtig auch beim Bau einer Solaranlage das wesentliche nicht aus den
 
 - Das Gemeinwohl zu pflegen und zu fördern.
 
-subtitle: "Planung und Bau Ihrer Solaranlage"er Weg zu Ihrer Photovoltaikanlage:"
-excerpt: "1. Sie spielen mit dem Gedanken eine Photovoltaikanlage zu bauen.
+Planung und Bau Ihrer Solaranlage"er Weg zu Ihrer Photovoltaikanlage:
+
+1. Sie spielen mit dem Gedanken eine Photovoltaikanlage zu bauen.
 
 2. Kontaktieren Sie uns per Telefon oder per Mail. Egal wie fortgeschrittenen Ihre Pläne schon sind, wir klären mit Ihnen Ihre Fragen (kostenlos). Meist empfiehlt es sich einen Termin für eine Begehung zu vereinbaren.
 
