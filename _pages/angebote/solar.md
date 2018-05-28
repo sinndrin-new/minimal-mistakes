@@ -27,8 +27,10 @@ Uns ist es wichtig auch beim Bau einer Solaranlage das wesentliche nicht aus den
 
 - Partnerschaften einzugehen und zu pflegen. Nicht mit Lieferanten sondern auch bei den Kunden und Mitbewerbern. 
 
-- Das Gemeinwohl zu pflegen und zu fördern."
+- Das Gemeinwohl zu pflegen und zu fördern.
+
 Der Weg zu Ihrer Photovoltaikanlage:
+
 1. Sie spielen mit dem Gedanken eine Photovoltaikanlage zu bauen.
 2. Kontaktieren Sie uns per Telefon oder per Mail. Egal wie fortgeschrittenen Ihre Pläne schon sind, wir klären mit Ihnen Ihre Fragen (kostenlos). Meist empfiehlt es sich einen Termin für eine Begehung zu vereinbaren.
 3. Wir besichtigen mit Ihnen den Bauplatz. Dabei werden Ihnen alle Möglichkeiten aufgezeigt (kostenlos).
@@ -39,7 +41,7 @@ Der Weg zu Ihrer Photovoltaikanlage:
 8. Der Abschluss bildet die Übergabe der Anlage. Gerne werden wir auch zukünftig für Sie bereit stehen.
 
 Weitere Informationen:
-In unserem Glossar finden Sie viele Erklärungen und Informationen rund um Solarenergie.
+In unserem Glossar finden Sie viele Erklärungen und Informationen rund um Solarenergie."
 
     url: "/ueber-uns/kontakt/"
     btn_label: "Kontaktieren Sie uns für eine kostenlose Offerte."
