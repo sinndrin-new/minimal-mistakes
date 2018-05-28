@@ -1,7 +1,11 @@
 ---
 layout: splash
 title: "Solar"
-excerpt: "Die Zukunft wird frei von fossilen und atomaren Energieträgern. Wir leben die Zukunft schon jetzt und setzen uns für die Solarenergie ein. Wir glauben, dass die Solarenergie zur Zeit eine der besten Lösungen im Bereich Erneuerbaren Energien ist."
+excerpt: "Die Zukunft wird frei von fossilen und atomaren Energieträgern. 
+
+Wir leben diese Zukunft schon jetzt und setzen uns für die Solarenergie ein. 
+
+Den wir glauben, dass die Solarenergie zur Zeit eine der besten Lösungen im Bereich Erneuerbaren Energien ist."
 permalink: /angebote/solar/
 author_profile: false
 header:
@@ -21,26 +25,26 @@ Je nach Ausrichtung und Grösse des Daches sowie Höhe des Stromverbrauchs, kön
 
 Eine Solaranlage ist daher schnell nicht nur für die Umwelt sondern auch für ihre Geldbörse gut. Wir geben ihnen gerne Auskunft über ihre Vorteile und der Rentabilität bei einer kostenlosen Offerte.
 
+
 Uns ist es wichtig auch beim Bau einer Solaranlage das wesentliche nicht aus den Augen zu lassen:
 
 - Der Einfluss auf die Natur möglichst klein zu halten indem Komponenten verwendet werden, die einen kleinen ökologischen Fussabdruck jedoch grosse lokale Werschöpfung aufweisen.
+
 - Partnerschaften einzugehen und zu pflegen. Nicht nur bei den Lieferanten sondern auch bei den Kunden und Mitbewerbern.
+
 - Das Gemeinwohl vor allem Anderen zu stellen."
     url: "/ueber-uns/kontakt/"
     btn_label: "Kontaktieren Sie uns für eine kostenlose Offerte."
     btn_class: "btn--primary"
 fr_Glossar:
   - image_path: /assets/images/angebote/fairphone/Fairphone_shot-02_W_HR-s_600x600.jpg
-    alt: "Solar Glossar"
-    title: "Solar Glossar"
-    excerpt: 'excerpt zum Solar Glossar ...'
+    alt: "Hilfreiche Informationen rund um das Thema Solar"
+    title: "Glossar"
+    excerpt: "Ob Recycling, Subventionen oder Eigenverbrauchsgemeinschaften. Hier finden Sie detaillierte Informationen rund um das Thema der Solarenergie."
     url: "#test-link"
     btn_label: "Mehr"
     btn_class: "btn--primary"
 ---
-
-Solartext (normal auf der Webseite eingebudnen)...
-
 <hr>
 
 {% include feature_row id="fr_PlanungUndBau" type="left" %}
