@@ -1,12 +1,12 @@
 ---
 layout: splash
 title: "Solar"
+permalink: /angebote/solar/
 excerpt: "Die Zukunft wird frei von fossilen und atomaren Energieträgern.
 
 Wir leben diese Zukunft schon jetzt und setzen uns für die Solarenergie ein.
 
 Den wir glauben, dass die Solarenergie zur Zeit eine der besten Lösungen im Bereich Erneuerbaren Energien ist."
-permalink: /angebote/solar/
 author_profile: false
 header:
   overlay_color: "#000"
