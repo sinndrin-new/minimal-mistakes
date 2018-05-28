@@ -23,9 +23,9 @@ fr_PlanungUndBau:
     excerpt: "Für den Bau Ihrer Photovoltaikanlage bieten wir alles aus einer Hand: von der Beratung und Planung bis hin zur Realisierung und Gesuchstellung der Förderbeiträge. Wir erstellen Ihnen gerne kostenlos eine unverbindliche Offerte.
 Uns ist es wichtig auch beim Bau einer Solaranlage das wesentliche nicht aus den Augen zu lassen:
 
-- Negative Einflüsse auf die Natur möglichst zu reduzieren indem Komponenten verwendet werden, die einen kleinen ökologischen Fussabdruck dafür grosse lokale Wertschöpfung aufweisen. 
+- Negative Einflüsse auf die Natur möglichst zu reduzieren indem Komponenten verwendet werden, die einen kleinen ökologischen Fussabdruck dafür grosse lokale Wertschöpfung aufweisen.
 
-- Partnerschaften einzugehen und zu pflegen. Nicht mit Lieferanten sondern auch bei den Kunden und Mitbewerbern. 
+- Partnerschaften einzugehen und zu pflegen. Nicht mit Lieferanten sondern auch bei den Kunden und Mitbewerbern.
 
 - Das Gemeinwohl zu pflegen und zu fördern.
 
@@ -39,7 +39,7 @@ Der Weg zu Ihrer Photovoltaikanlage:
 
 4. Wir erstellen Ihnen eine unverbindliche Offerte.
 
-5. Sie erteilen uns den Bauauftrag, dabei werden Ihnen 50 Prozent der Anlagekosten in Akkontorechnung gestellt.
+5. Sie erteilen uns den Bauauftrag, dabei werden Ihnen 50 Prozent der Anlagekosten in Akontorechnung gestellt.
 
 6. Es erfolgt der Bau der Anlage. Für ein Einfamilienhaus liegt die Bauzeit typischerweise bei einer Woche.
 
