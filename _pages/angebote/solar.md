@@ -20,19 +20,15 @@ fr_PlanungUndBau:
   - image_path: /assets/images/angebote/fairphone/Fairphone_shot-02_W_HR-s_600x600.jpg
     alt: "Planung und Bau Ihrer Solaranlage"
     title: "Planung und Bau Ihrer Solaranlage"
-    excerpt: "Mit einer Lebensdauer von mehr als 25 Jahren, den sinkenden Preisen bei den Solarmodulen und einzelnen Komponenten, schneller Realisierung beim Bau werden Solaranlagen immer lukrativer, wenn es um die Rentabilität geht.
-Je nach Ausrichtung und Grösse des Daches sowie Höhe des Stromverbrauchs, können so Amortisationszeiten von weniger als 10 Jahren erreicht werden.
-
-Eine Solaranlage ist daher schnell nicht nur für die Umwelt sondern auch für ihre Geldbörse gut. Wir geben ihnen gerne Auskunft über ihre Vorteile und der Rentabilität bei einer kostenlosen Offerte.
-
+    excerpt: "Für den Bau Ihrer Photovoltaikanlage bieten wir alles aus einer Hand: von der Beratung und Planung bis hin zur Realisierung und Gesuchstellung der Förderbeiträge. Wir erstellen Ihnen gerne kostenlos eine unverbindliche Offerte.
 
 Uns ist es wichtig auch beim Bau einer Solaranlage das wesentliche nicht aus den Augen zu lassen:
 
-- Der Einfluss auf die Natur möglichst klein zu halten indem Komponenten verwendet werden, die einen kleinen ökologischen Fussabdruck jedoch grosse lokale Werschöpfung aufweisen.
+- Negative Einflüsse auf die Natur möglichst zu reduzieren indem Komponenten verwendet werden, die einen kleinen ökologischen Fussabdruck dafür grosse lokale Wertschöpfung aufweisen. 
 
-- Partnerschaften einzugehen und zu pflegen. Nicht nur bei den Lieferanten sondern auch bei den Kunden und Mitbewerbern.
+- Partnerschaften einzugehen und zu pflegen. Nicht mit Lieferanten sondern auch bei den Kunden und Mitbewerbern. 
 
-- Das Gemeinwohl vor allem Anderen zu stellen."
+- Das Gemeinwohl zu pflegen und zu fördern."
     url: "/ueber-uns/kontakt/"
     btn_label: "Kontaktieren Sie uns für eine kostenlose Offerte."
     btn_class: "btn--primary"
