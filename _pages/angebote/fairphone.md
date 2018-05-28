@@ -3,7 +3,7 @@ layout: splash
 title: "Fairphone"
 <!-- TODO: Roger Einsicht -->
 excerpt: "Wenn Sie bei uns ein Gerät kaufen... <br><br>
-    ... provitieren Sie von persönlichem und kompetenten Support und einfachen Prozessen bei Garantiefällen
+    ... provitieren Sie von persönlichem und kompetentem Support und einfachen Prozessen bei Garantiefällen. <br>
     ... sind die Stromkosten für das Aufladen des Gerätes für 5 Jahre mit 100% Schweizer Solarstrom gesponsert. <br>
     ... ist der Versand CO2-Neutral. <br>
     ... wissen Sie wie die Kosten des Gerätes aufgeteilt sind, weil Transparenz uns wichtig ist."
@@ -55,7 +55,7 @@ Fairphone ist ein Sozialunternehmen ('social enterprise'), das soziale und ökol
 
 Die sinndrin genossenschaft ist seit der Fairphone 1 Crowdfunding-Phase (2013) bewährte Partnerin von Fairphone in der Schweiz. Dabei ist es uns wichtig, dass wir unseren Kunden neben einfachen Abläufen auch kompetenten Reparaturservice, Support und Hilfe anbieten. Der rege Austausch mit Fairphone in Holland hilft uns, unseren hohen Qualitätansprüchen gerecht zu werden.
 
-Desweiteren bieten wir persönlichen Support rund um das Gerät an und reinvestieren einen Teil unserer Einnahmen in den Bereich Marketing, um die Idee von Fairphone weiter voran treiben zu können.
+Desweiteren bieten wir persönlichen Anwender-Support rund um das Gerät an und reinvestieren einen Teil unserer Einnahmen in den Bereich Marketing, um die Idee von Fairphone weiter voran treiben zu können.
 
 <hr>
 
