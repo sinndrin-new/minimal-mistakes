@@ -13,26 +13,14 @@ header:
   cta_url: "/ueber-uns/kontakt/"
 sidebar:
   nav: "solar-glossar"
-### feature rows
-fr_PlanungUndBau:
-  - image_path: /assets/images/angebote/fairphone/Fairphone_shot-02_W_HR-s_600x600.jpg
-    alt: "Planung und Bau Ihrer Solaranlage"
-    title: "Planung und Bau Ihrer Solaranlage"
-    excerpt: "..."
-    url: "/ueber-uns/kontakt/"
-    btn_label: "Kontaktieren Sie uns für eine kostenlose Offerte."
-    btn_class: "btn--primary"
-fr_Glossar:
-  - image_path: /assets/images/angebote/fairphone/Fairphone_shot-02_W_HR-s_600x600.jpg
-    alt: "Hilfreiche Informationen rund um das Thema Solar"
-    title: "Glossar"
-    excerpt: "Ob Recycling, Subventionen oder Eigenverbrauchsgemeinschaften. Hier finden Sie detaillierte Informationen rund um das Thema der Solarenergie."
-    url: "/angebote/solar/glossar/"
-    btn_label: "Mehr"
-    btn_class: "btn--primary"
+toc: true
 ---
-<hr>
 
-{% include feature_row id="fr_PlanungUndBau" type="left" %}
+## ABC
 
-{% include feature_row id="fr_Glossar" type="right" %}
+abc cba ...
+
+## XYZ
+
+xyz zxy ...
+
