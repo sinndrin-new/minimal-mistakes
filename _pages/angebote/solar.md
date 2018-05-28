@@ -1,9 +1,9 @@
 ---
 layout: splash
 title: "Solar"
-excerpt: "Die Zukunft wird frei von fossilen und atomaren Energieträgern. 
+excerpt: "Die Zukunft wird frei von fossilen und atomaren Energieträgern.
 
-Wir leben diese Zukunft schon jetzt und setzen uns für die Solarenergie ein. 
+Wir leben diese Zukunft schon jetzt und setzen uns für die Solarenergie ein.
 
 Den wir glauben, dass die Solarenergie zur Zeit eine der besten Lösungen im Bereich Erneuerbaren Energien ist."
 permalink: /angebote/solar/
@@ -20,7 +20,7 @@ fr_PlanungUndBau:
   - image_path: /assets/images/angebote/fairphone/Fairphone_shot-02_W_HR-s_600x600.jpg
     alt: "Planung und Bau Ihrer Solaranlage"
     title: "Planung und Bau Ihrer Solaranlage"
-    excerpt: "Mit einer Lebensdauer von mehr als 25 Jahren, den sinkenden Preisen bei den Solarmodulen und einzelnen Komponenten, schneller Realisierung beim Bau werden Solaranlagen immer lukrativer, wenn es um die Rentabilität geht. 
+    excerpt: "Mit einer Lebensdauer von mehr als 25 Jahren, den sinkenden Preisen bei den Solarmodulen und einzelnen Komponenten, schneller Realisierung beim Bau werden Solaranlagen immer lukrativer, wenn es um die Rentabilität geht.
 Je nach Ausrichtung und Grösse des Daches sowie Höhe des Stromverbrauchs, können so Amortisationszeiten von weniger als 10 Jahren erreicht werden.
 
 Eine Solaranlage ist daher schnell nicht nur für die Umwelt sondern auch für ihre Geldbörse gut. Wir geben ihnen gerne Auskunft über ihre Vorteile und der Rentabilität bei einer kostenlosen Offerte.
@@ -41,7 +41,7 @@ fr_Glossar:
     alt: "Hilfreiche Informationen rund um das Thema Solar"
     title: "Glossar"
     excerpt: "Ob Recycling, Subventionen oder Eigenverbrauchsgemeinschaften. Hier finden Sie detaillierte Informationen rund um das Thema der Solarenergie."
-    url: "#test-link"
+    url: "/angebote/solar/glossar/"
     btn_label: "Mehr"
     btn_class: "btn--primary"
 ---
