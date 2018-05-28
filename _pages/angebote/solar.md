@@ -29,7 +29,7 @@ Uns ist es wichtig auch beim Bau einer Solaranlage das wesentliche nicht aus den
 
 - Das Gemeinwohl zu pflegen und zu fördern.
 
-Planung und Bau Ihrer Solaranlage"er Weg zu Ihrer Photovoltaikanlage:
+Der Weg zu Ihrer Photovoltaikanlage:
 
 1. Sie spielen mit dem Gedanken eine Photovoltaikanlage zu bauen.
 
