@@ -2,7 +2,7 @@
 layout: single
 title: "Kontakt"
 excerpt: "Kontaktieren Sie uns. Wir freuen uns."
-permalink: /ueber-uns/kontakt/
+slug: kontakt
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"

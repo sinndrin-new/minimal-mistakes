@@ -282,6 +282,7 @@ defaults:
     values:
       sidebar:
         nav: "ueber-uns"
+      permalink: /ueber-uns/:slug/
       author_profile: false
       search: true
       header:

@@ -2,7 +2,7 @@
 layout: single
 title: "Team"
 # excerpt: ""
-permalink: /ueber-uns/team/
+slug: team
 ---
 
 <!-- TODO: add team routine -->

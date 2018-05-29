@@ -2,7 +2,7 @@
 layout: single
 title: "Grundsätze"
 # excerpt: ""
-permalink: /ueber-uns/grundsaetze/
+slug: grundsaetze
 ---
 
 <!-- TODO: add team grunsätze -->

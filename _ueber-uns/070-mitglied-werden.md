@@ -2,7 +2,7 @@
 layout: single
 title: "Mitglied werden"
 # excerpt: ""
-permalink: /ueber-uns/mitglied-werden/
+slug: mitglied-werden
 ---
 
 <!-- TODO: add mitglied-werden -->

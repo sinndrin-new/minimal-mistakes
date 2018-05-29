@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Jobs"
+slug: jobs
 # excerpt: ""
-permalink: /ueber-uns/jobs/
 ---
 
 <!-- TODO: add jobs -->

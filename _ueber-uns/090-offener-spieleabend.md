@@ -2,7 +2,7 @@
 layout: single
 title: "Offener Spieleabend"
 # excerpt: ""
-permalink: /ueber-uns/spieleabend/
+slug: spieleabend
 ---
 
 <!-- TODO: add offener-spieleabend -->

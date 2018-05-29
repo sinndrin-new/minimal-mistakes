@@ -2,7 +2,7 @@
 layout: single
 title: "Statuten"
 # excerpt: ""
-permalink: /ueber-uns/statuten/
+slug: statuten
 ---
 
 <!-- TODO: add team Gemeinwohlbilanz -->
