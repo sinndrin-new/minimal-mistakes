@@ -39,8 +39,8 @@ fr_kontakt:
 <!-- END facebook -->
 <!-- END script loading -->
 
+<!-- BEGIN Team -->
 {% include feature_row id="intro" type="center" %}
-
 
 <div class="float-group">
 {% for author_hash in site.data.authors %}
@@ -71,66 +71,56 @@ fr_kontakt:
 </div>
 
 <hr>
+<!-- END Team -->
 
 <!-- {% include feature_row id="fr_kontakt" %} -->
 
 
 <!-- BEGIN Kontakt -->
-<div class="row">
-  <div class=" large-6 columns">
-  <p>
-  <b>sinndrin genossenschaft</b><br>
-  <a href="#" data-reveal-id="addressModal">Zunstrasse 11<br>
-  CH-8152 Glattbrugg<br></a>
-  <i class="fi-telephone"></i> 044 534 64 54<br>
-  <a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a><br>
-  <a href="/ueber-uns/spieleabend/"><i class="fi-puzzle"></i> Persönliches Kennenlernen an einem unserer Spieleabende</a><br><br>
-  <b>Fairphone Support:</b><br><a href="https://support.sinndrin.org/de"><i class="fi-page-multiple"></i> Fairphone Support Seite</a><br><a href="mailto:support@sinndrin.ch"><i class="fi-mail"></i> support@sinndrin.ch</a><br><br>
-  MWST-Nr.: CHE-259.799.074 MWST<br>
-  <a target="_blank" href="https://zh.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-259.799.074"><i class="fi-info"></i> Handelsregistereintrag</a><br>
-  <a href="#bankverbindung"><i class="fi-bitcoin-circle"></i> Bankverbindung</a><br><br>
+## Kontaktdaten
+{:#kontaktdaten}
 
-  Wir sind am Montag, Mittwoch und Freitag während den üblichen Büroöffnungszeiten am besten erreichbar.
-  </p>
-  </div>
-<!-- BEGIN Team -->
-  <div class="large-6 columns">
-  <h2 class="show-for-medium-down"><a href="/ueber-uns/team/">Team</a></h2>
-  <a href="/ueber-uns/team/">
-  {% for post in site.categories.team %}
-  <img alt="{{ post.title }}" width="100" src="{{ post.image }}">
-  {% endfor %}
-  </a>
-  </div>
-<!-- END Team -->
-  </div>
+**sinndrin genossenschaft**<br/>
+[Zunstrasse 11][gmaps-zunstrasse]{:target="_blank"}<br/>
+[CH-8152 Glattbrugg][gmaps-zunstrasse]{:target="_blank"}
+
+<i class='fas fa-fw fa-phone'></i> +41 44 534 64 54<br>
+<i class='fas fa-fw fa-at'></i> [info@sinndrin.ch](mailto:info@sinndrin.ch)<br>
+
+<i class='fas fa-fw fa-puzzle-piece '></i> [Persönliches Kennenlernen an einem unserer Spieleabende](/ueber-uns/spieleabend/)
+
+<b>Fairphone Support:</b><br><i class='fas fa-fw fa-file-alt'></i> [Fairphone Support Seite](https://support.sinndrin.org/de)<br>
+<i class='fas fa-fw fa-at'></i> [support@sinndrin.ch](mailto:support@sinndrin.ch)
+
+MWST-Nr.: CHE-259.799.074 MWST<br>
+<i class="fas fa-fw fa-info"></i> [Handelsregistereintrag](https://zh.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-259.799.074){:target="_blank"}<br>
+<i class='fas fa-fw fa-coins'></i> [Bankverbindung](#bankverbindung)
+
+Wir sind am Montag, Mittwoch und Freitag während den üblichen Büroöffnungszeiten am besten erreichbar.
 <!-- END Kontakt -->
 
 
 <!-- BEGIN Social Profiles -->
-<div class="row">
-  <div class="columns">
-    <h2>Soziale Netzwerke</h2>
-  </div>
+## Soziale Netzwerke
+
+<!-- BEGIN Facebook -->
+### [<i class='fas fa-fw fa-facebook'></i> Facebook](https://www.facebook.com/sinndrin)
+{:style="color:#3b5998;}
+{:target="_blank"}
+{:rel="sinndrin genossenschaft"}
+
+<div class="fb-like-box" data-href="https://www.facebook.com/sinndrin" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
+<!-- END Facebook -->
+
+<!-- BEGIN Google+ -->
+<div class="large-6 columns">
+<h3><a style="color: red;" href="https://plus.google.com/+sinndringenossenschaftZürich" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-google-plus"></i> Google+</a></h3>
+<!-- BEGIN Google+ Code -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<g:page href="https://plus.google.com/+sinndringenossenschaftZürich"></g:page>
+<!-- END Google+ Code -->
 </div>
-
-<div class="row">
-  <!-- BEGIN Facebook -->
-  <div class="large-6 columns">
-    <h3><a style="color:#3b5998;" href="https://www.facebook.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-facebook"></i> Facebook</a></h3>
-    <div class="fb-like-box" data-href="https://www.facebook.com/sinndrin" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
-  </div>
-  <!-- END Facebook -->
-
-  <!-- BEGIN Google+ -->
-  <div class="large-6 columns">
-    <h3><a style="color: red;" href="https://plus.google.com/+sinndringenossenschaftZürich" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-google-plus"></i> Google+</a></h3>
-    <!-- BEGIN Google+ Code -->
-    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-    <g:page href="https://plus.google.com/+sinndringenossenschaftZürich"></g:page>
-    <!-- END Google+ Code -->
-  </div>
-  <!-- END Google+ -->
+<!-- END Google+ -->
 </div>
 
 <!-- TODO: ugly spacing -->
@@ -165,11 +155,12 @@ fr_kontakt:
 <!-- END Weitere -->
 </div>
 
-# <a name="bankverbindung"></a> Bankverbindung
+## <i class='fas fa-fw fa-coins'></i> Bankverbindung
+{:#bankverbindung}
 
-* IBAN: **CH43 0839 0032 4370 1000 1** <br>
+IBAN: **CH43 0839 0032 4370 1000 1**
 
-## Daten unserer Bank
+### Daten unserer Bank
 
 * Name: **Alternative Bank Schweiz (ABS)**
 * Kontonummer der sinndrin genossenschaft: **324.370.100-01**
@@ -178,25 +169,5 @@ fr_kontakt:
 * Swift Code: **ABSOCH22**
 
 
-<!-- Reveal Modals begin -->
-<div id="addressModal" class="reveal-modal" data-reveal>
-  <h2>Adresse der sinndrin genossenschaft</h2>
-
-  <p>c/o Z11 Büro Atelier, Zunstrasse 11, CH-8152 Glattbrugg, Schweiz</p>
-  <!-- data-interchange begin -->
-  <div
-      data-interchange="[/ueber-uns/kontakt/default.html, (small)], [/ueber-uns/kontakt/medium.html, (medium)], [/ueber-uns/kontakt/large.html, (large)]">
-    <div data-alert class="alert-box secondary radius">
-      <!-- default content begin -->
-      <!-- TODO: map auf ueber-uns auf google places ändern -->
-      <iframe width="280" height="280" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-              src="https://maps.google.ch/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=sinndrin+genossenschaft&amp;aq=&amp;sll=47.377455,8.536715&amp;sspn=0.174132,0.346756&amp;ie=UTF8&amp;hq=sinndrin+genossenschaft&amp;hnear=&amp;t=m&amp;z=12&amp;iwloc=A&amp;cid=16683552561753725560&amp;ll=47.362039,8.533676&amp;output=embed"></iframe><br /><small><a href="https://maps.google.ch/maps?f=q&amp;source=embed&amp;hl=de&amp;geocode=&amp;q=sinndrin+genossenschaft&amp;aq=&amp;sll=47.377455,8.536715&amp;sspn=0.174132,0.346756&amp;ie=UTF8&amp;hq=sinndrin+genossenschaft&amp;hnear=&amp;t=m&amp;z=12&amp;iwloc=A&amp;cid=16683552561753725560&amp;ll=47.362039,8.533676"></iframe>
-      <br/>
-      <small><a href="https://maps.google.ch/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=sinndrin+genossenschaft&amp;aq=&amp;sll=47.377455,8.536715&amp;sspn=0.174132,0.346756&amp;ie=UTF8&amp;hq=sinndrin+genossenschaft&amp;hnear=&amp;t=m&amp;z=12&amp;iwloc=A&amp;cid=16683552561753725560&amp;ll=47.362039,8.533676&amp;output=embed"></iframe><br /><small><a href="https://maps.google.ch/maps?f=q&amp;source=embed&amp;hl=de&amp;geocode=&amp;q=sinndrin+genossenschaft&amp;aq=&amp;sll=47.377455,8.536715&amp;sspn=0.174132,0.346756&amp;ie=UTF8&amp;hq=sinndrin+genossenschaft&amp;hnear=&amp;t=m&amp;z=12&amp;iwloc=A&amp;cid=16683552561753725560&amp;ll=47.362039,8.533676">Grössere Kartenansicht</a></small>
-      <!-- default content end -->
-    </div>
-  </div>
-  <!-- data-interchange end -->
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-<!-- Reveal Modals end -->
+<!-- MARKDOWN LINKS -->
+[gmaps-zunstrasse]: https://goo.gl/maps/W29ouJoYX8F2
