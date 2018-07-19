@@ -16,11 +16,34 @@ sidebar:
 toc: true
 ---
 
-## ABC
+## <i class='fas fa-fw fa-calculator'></i> Solarrechner
 
 abc cba ...
 
-## XYZ
+## <i class='fas fa-fw fa-home'></i> Eigenverbrauchsgemeinschaft
 
 xyz zxy ...
 
+## <i class='fas fa-fw fa-industry'></i> Energieverbrauch bei Produktion
+
+xyz zxy ...
+
+## <i class='fas fa-fw fa-recycle'></i> Recycling
+
+xyz zxy ...
+
+## <i class='fas fa-fw fa-coins'></i> KEV / Einmalvergütung
+
+xyz zxy ...
+
+## <i class='fas fa-fw fa-piggy-bank'></i> Steuern sparen
+
+xyz zxy ...
+
+## <i class='fas fa-fw fa-gift'></i> Lokale und kantonale Subventionen
+
+xyz zxy ...
+
+## <i class='fas fa-fw fa-balance-scale'></i> Rechnungsbeispiel
+
+xyz zxy ...
